@@ -55,5 +55,4 @@ export const messageRouter = createTRPCRouter({
         });
         return createdMessage
     })
-
 })
